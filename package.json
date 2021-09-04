@@ -1,0 +1,26 @@
+{
+  "name": "clean-blog",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msametgok/Clean-Blog.git"
+  },
+  "author": "Mehmet Samet Gök",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msametgok/Clean-Blog/issues"
+  },
+  "homepage": "https://github.com/msametgok/Clean-Blog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "prettier": "2.3.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
